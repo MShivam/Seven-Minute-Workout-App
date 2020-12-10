@@ -5,4 +5,4 @@ a basic android workout application
 - bmi calculator
 - view your excercise history
 
-- App will be refined and optimized for more features and usability in the future :)
+App will be refined and optimized for more features and usability in the future :)
